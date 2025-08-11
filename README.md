@@ -75,21 +75,14 @@
 <br>
 <div align='left'>
 
-<ul>
-<li>
 <a href="https://linkedin.com/in/rocio-luque-valiente-3ab8002b7" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Rocío Luque Valiente-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</li>
 
-<br>
-
-<li>
-<a href="mailto:rociolu4@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  rocioluq4@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:rocioluq4@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</li>	
-</ul>
+
 </div>
 
 <br>
