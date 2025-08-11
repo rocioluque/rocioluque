@@ -15,8 +15,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 - :school: I am a `Junior` the Advanced Technician's Degree in Software Development at [Instituto Superior Villa del Rosario]((https://www.instagram.com/institutosuperiorvdr/)).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
@@ -24,32 +22,42 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> Skills
 
-- **Lenguajes**:
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<h4>Lenguajes</h4>
+<span>
+<img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</span>
 
-- **Frameworks y Librerías**:
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<h4>Frameworks y Librerías</h4>
+<span>
+<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+</span>
 
-- **Tecnologías Web**:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<h4>Tecnologías Web</h4>
+<span>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+</span>
 
-- **Bases de Datos**:
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<h4>Bases de Datos</h4>
+<span>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</span>
 
-- **Herramientas y Entornos**:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<h4>Herramientas y Entornos</h4>
+<span>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+</span>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
