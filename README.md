@@ -7,6 +7,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<h4 align="center">Full Stack Developer | Software Development Technician</h4>
+
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack-developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -24,40 +26,41 @@
 
 <h4>Lenguajes</h4>
 <span>
-<img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/VB.NET-d8b4fe?style=flat-square&logo=dotnet&logoColor=4b0082">
+<img src="https://img.shields.io/badge/C%23-a7f3d0?style=flat-square&logo=c-sharp&logoColor=064e3b">
+<img src="https://img.shields.io/badge/JavaScript-fef9c3?style=flat-square&logo=javascript&logoColor=ca8a04">
 </span>
 
 <h4>Frameworks y Librerías</h4>
 <span>
-<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/ASP.NET-c7d2fe?style=flat-square&logo=dotnet&logoColor=3730a3">
+<img src="https://img.shields.io/badge/React-b3e5fc?style=flat-square&logo=react&logoColor=0284c7">
+<img src="https://img.shields.io/badge/Next.js-e2e8f0?style=flat-square&logo=nextdotjs&logoColor=111827">
+<img src="https://img.shields.io/badge/Bootstrap-f5d0fe?style=flat-square&logo=bootstrap&logoColor=701a75">
+<img src="https://img.shields.io/badge/Node.js-bef264?style=flat-square&logo=nodedotjs&logoColor=365314">
 </span>
 
 <h4>Tecnologías Web</h4>
 <span>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-fecaca?style=flat-square&logo=html5&logoColor=be123c">
+<img src="https://img.shields.io/badge/CSS3-bdd6ff?style=flat-square&logo=css3&logoColor=1e3a8a">
 </span>
 
 <h4>Bases de Datos</h4>
 <span>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL%20Server-fde68a?style=flat-square&logo=microsoftsqlserver&logoColor=b45309">
+<img src="https://img.shields.io/badge/MySQL-b9fbc0?style=flat-square&logo=mysql&logoColor=166534">
 </span>
 
 <h4>Herramientas y Entornos</h4>
 <span>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Git-fecdd3?style=flat-square&logo=git&logoColor=9f1239">
+<img src="https://img.shields.io/badge/GitHub-e5e7eb?style=flat-square&logo=github&logoColor=111827">
+<img src="https://img.shields.io/badge/Visual%20Studio-d1c4e9?style=flat-square&logo=visualstudio&logoColor=4a148c">
+<img src="https://img.shields.io/badge/VS%20Code-b3e5fc?style=flat-square&logo=visual-studio-code&logoColor=0c4a6e">
+<img src="https://img.shields.io/badge/Vercel-f5f5f5?style=flat-square&logo=vercel&logoColor=111827">
 </span>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -79,7 +82,7 @@
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+</div>
 
