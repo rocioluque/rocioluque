@@ -73,12 +73,13 @@
 <div align='left'>
 
 <a href="https://linkedin.com/in/rocio-luque-valiente-3ab8002b7" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-d8b4fe?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:rocioluq4@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-fecaca?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 
 </div>
 
