@@ -17,10 +17,10 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- :school: I am a `Junior` the Advanced Technician's Degree in Software Development at [Instituto Superior Villa del Rosario]((https://www.instagram.com/institutosuperiorvdr/)).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
+- I am a `Junior` the Advanced Technician's Degree in Software Development at [Instituto Superior Villa del Rosario]((https://www.instagram.com/institutosuperiorvdr/)).
+- I love using Software as a solution for every `Problem`.
+- Always `learning new things`.
+- I’m currently open for a new `job opportunity`.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> Skills
 
