@@ -27,7 +27,6 @@
 <h4>Lenguajes</h4>
 <span>
 <img src="https://img.shields.io/badge/VB.NET-d8b4fe?style=flat-square&logo=dotnet&logoColor=4b0082">
-<img src="https://img.shields.io/badge/C%23-a7f3d0?style=flat-square&logo=c-sharp&logoColor=064e3b">
 <img src="https://img.shields.io/badge/JavaScript-fef9c3?style=flat-square&logo=javascript&logoColor=ca8a04">
 </span>
 
